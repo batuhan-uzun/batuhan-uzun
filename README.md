@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Batuhan Uzun</h1>
 <h3 align="center">A passionate backend developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **.Net Core**
+- 🔭 I’m currently working on **Patika+ Backend Developer Bootcamp**
 
-- 🌱 I’m currently learning **Patika+ Backend Developer Bootcamp**
+- 🌱 I’m currently learning **.Net Core**
 
 - 📫 How to reach me **batuhanuzun2356@gmail.com**
 
