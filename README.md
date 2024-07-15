@@ -1,4 +1,4 @@
-[![MasterHead](https://patika-cohorts-prod.s3-eu-central-1.amazonaws.com/cohorts/cohort3a-patika-backend-web-developer-programi/tasks/tKZxAjCHGCjvoSe7K/dne47s4-patika__linkedin_banner_6.png)
+![MasterHead](https://patika-cohorts-prod.s3-eu-central-1.amazonaws.com/cohorts/cohort3a-patika-backend-web-developer-programi/tasks/tKZxAjCHGCjvoSe7K/dne47s4-patika__linkedin_banner_6.png)
 
 <h1 align="center">Hi 👋, I'm Batuhan Uzun</h1>
 <h3 align="center">A passionate backend developer from Türkiye</h3>
