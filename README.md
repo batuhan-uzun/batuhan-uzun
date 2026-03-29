@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Batuhan Uzun</h1>
 <h3 align="center">A passionate backend developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **Patika+ Backend Developer Bootcamp**
+- 🔭 I have successfully completed the **Patika+ Full Stack Developer Bootcamp**
 
 - 🌱 I’m currently learning **.Net Core**
 
