@@ -27,7 +27,7 @@ A Eurovision-style online song contest, live and in active use.
 
 An unannounced PC strategy game built with **C# and Godot 4 (.NET)**. More once it gets close to release.
 
-### 📚 .NET work from the Patika+ Full Stack Developer Bootcamp
+### 📚 .NET work from Patika bootcamps
 
 | Project | What it shows |
 |---|---|
