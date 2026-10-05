@@ -7,7 +7,7 @@ On the job I investigate production incidents with SQL and work through ITIL inc
 ### 🛠 Tech
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,php,mysql,postgres,js,nodejs,html,css,git&perline=10" alt="C#, .NET, PHP, MySQL, PostgreSQL, JavaScript, Node.js, HTML, CSS, Git" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,react,php,mysql,postgres,js,nodejs,html,css,git&perline=12" alt="C#, .NET, Java, React, PHP, MySQL, PostgreSQL, JavaScript, Node.js, HTML, CSS, Git" />
 </p>
 
 ### 🚀 Featured project
